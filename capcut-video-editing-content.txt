@@ -1,0 +1,346 @@
+🎬 CapCut Mobile — Video Editing Start to End
+
+1. New Project Start Karein..........................
+
+
+CapCut app open karein.
+New Project par tap karein.
+Gallery se apni videos/photos select karein.
+Jo clips select karni hain unko order mein select karein.
+Add par tap karein.
+Ab aap editing timeline mein aa jayengi.
+
+2. Video ka Order Set Karein........................
+
+Timeline mein kisi clip ko press & hold karein.
+Left/right drag karke uski position change karein.
+Is tarah sari clips ko correct sequence mein arrange karein.
+
+3. Video ka Extra Part Cut/Delete Karein................
+
+Timeline mein video clip par tap karein.
+White playhead ko us jagah le jayein jahan se part remove karna hai.
+Split par tap karein.
+Ab jahan part end hota hai wahan bhi playhead le ja kar Split karein.
+Beech wala unwanted part select karein.
+Delete par tap karein.
+Isi tarah video ke jitne unwanted parts hain remove kar sakti hain.
+
+4. Video ko Trim Karein.....................
+
+Agar starting ya ending ka part remove karna ho:
+Clip par tap karein.
+Clip ke left ya right edge ko drag karein.
+Jitna part chahiye utna rakh dein.
+
+5. Multiple Videos Add Karein......................
+
+Timeline ke end par + Add par tap karein.
+Additional videos/photos select karein.
+Add karein.
+Sab clips timeline mein add ho jayengi.
+
+
+6. Transition Add Karein...................
+
+Do clips ke beech jo chhota white box/transition icon hota hai us par tap karein.
+Transitions open honge.
+Fade, Mix, Slide, Zoom etc. mein se transition choose karein.
+Duration adjust karein.
+✔️ tap karke apply karein.
+
+Tip: Professional video ke liye har clip par heavy transition use na karein.
+
+7. Video ki Speed Change Karein....................
+Clip select karein.
+Speed par tap karein.
+Normal → video ko slow/fast karein.
+Curve → different parts ko different speed dein.
+Speed select karke ✔️ karein.
+
+8. Slow Motion Banayein..........................
+Jis portion ko slow karna hai pehle usko Split karein.
+Us particular clip ko select karein.
+Speed → Normal.
+Speed ko, for example, 0.5x ya 0.3x karein.
+
+9. Video ko Reverse Karein..........................
+Clip select karein.
+Reverse par tap karein.
+CapCut video ko reverse process karega.
+
+10. Music Add Karein.......................
+Neeche Audio par tap karein.
+Sounds par tap karein.
+Music search/select karein.
++ par tap karke timeline mein add karein.
+
+11. Apni Phone ki Music/File Add Karein.....................
+
+Audio → Sounds.
+Available options mein From device / Your sounds jaisa option select karein.
+Phone se audio choose karein.
+Timeline mein add karein.
+
+12. Original Video ki Voice Adjust Karein.....................
+
+Video clip select karein.
+Volume par tap karein.
+Original sound ko increase/decrease karein.
+Agar bilkul sound nahi chahiye to Mute kar sakti hain.
+13. Voice-over Record Karein..................
+
+Audio → Voiceover par tap karein.
+Record button press karke bolna start karein.
+Recording complete karke stop karein.
+Voice timeline mein add ho jayegi.
+14. Text Add Karein...............................
+
+Text → Add Text.    
+Apna text type karein.
+Font choose karein.
+Size adjust karein.
+Color/style change karein.
+Text ko screen par desired position par drag karein.
+
+15. Text Animation..........................
+
+Text select karein:
+Animation par tap karein.
+In = text screen par kaise aaye.
+Out = text kaise disappear ho.
+Loop = text continuously animate ho.
+Animation ki duration adjust karein.
+
+16. Text ko Specific Time Tak Rakhein......................
+Timeline mein text layer select karein.
+Text layer ke left/right edges drag karein.
+Jitni der text screen par chahiye utni duration set karein.
+
+17. Stickers Add Karein......................
+Stickers par tap karein.
+Sticker search/select karein.
+Screen par position aur size adjust karein.
+Timeline se uski duration set karein.
+
+18. Filters Add Karein........................
+
+Video clip select karein.
+Filters par tap karein.
+Suitable filter choose karein.
+Filter ki intensity adjust karein.
+
+19. Video Adjust Karein....................
+
+Professional look ke liye:
+
+Clip select → Adjust.
+Brightness
+Contrast
+Saturation
+Exposure
+Sharpen
+Highlights
+Shadows
+Temperature
+
+ko adjust karein.
+
+20. Effects Add Karein.....................
+
+Effects par tap karein.
+Video effects browse karein.
+Effect select karein.
+Effect ki duration timeline se set karein.
+
+Tip: Effects kam aur relevant use karein. Zyada effects video ko messy bana sakte hain.
+
+21. Background Remove / Cutout.................
+
+Agar subject/person ko background se separate karna ho:
+
+Clip select karein.
+Cutout par tap karein.
+Auto Cutout use karein.
+CapCut automatically subject ko detect karega.
+
+22. Green Screen Use Karein...............
+
+Agar green-screen video hai:
+
+Video select karein.
+Chroma Key par tap karein.
+Green color select karein.
+Intensity/Shadow adjust karein.
+Background mein apni image/video laga sakti hain.
+
+23. Overlay Add Karein.......................
+
+Agar ek video ke upar doosri video/photo lagani ho:
+
+Overlay → Add Overlay.
+Video/photo select karein.
+Size aur position adjust karein.
+Timeline se duration set karein.
+
+24. Video Crop Karein................
+
+Clip select karein.
+Edit → Crop.
+Required area select karein.
+Aspect ratio choose karein, jaise:
+9:16 → TikTok/Reels/Shorts
+16:9 → YouTube
+1:1 → Square post
+
+25. Video Rotate Karein...............
+
+Clip select karein.
+Edit → Rotate.
+Required direction mein rotate karein.
+
+26. Zoom In / Zoom Out...............
+
+Simple zoom ke liye:
+
+Clip select karein.
+Keyframe add karein.
+Starting point par normal size rakhein.
+Aage ja kar second keyframe add karein.
+Video ko zoom karein.
+
+CapCut automatically smooth zoom create karega.
+
+27. Keyframes — Advanced Editing................
+
+Keyframes se aap:
+
+Object ko move
+Zoom in/out
+Zoom out
+Position change
+Rotation
+Smooth movement
+
+kar sakti hain.
+
+Basic method:
+Starting position → Keyframe → Timeline mein aage → Position/size change → Second keyframe.
+
+28. Auto Captions..................
+
+Agar video mein speech hai:
+
+Text → Auto Captions.
+Language select karein.
+Generate karein.
+CapCut automatically spoken words ko text mein convert karega.
+Captions ki spelling aur timing check karein.
+
+29. Captions Style Karein.................
+
+Caption select karein:
+
+Font
+Size
+Color
+Background
+Animation
+Position
+
+adjust karein.
+
+30. Voice Enhance / Noise Reduce...................
+
+Agar option available ho:
+
+Audio/video select karein.
+Enhance Voice ya Noise Reduction use karein.
+Background noise kam karein.
+Voice ko clearer banayein.
+
+31. Audio ko Beat ke Sath Match Karein....................
+
+Music add karein.
+Audio select karein.
+Beat/Match Cut feature available ho to use karein.
+Beat points par clips ko Split karein.
+Important cuts ko music beats ke sath align karein.
+
+32. Video ka Beginning Strong Banayein.................
+
+
+First 2–3 seconds important hain.
+
+Start mein:
+
+Strong visual
+Short text
+Interesting movement
+Question/hook
+
+use karein.
+
+Example:
+"3 mistakes you're making while editing videos!"
+
+33. Ending Set Karein..................
+
+End mein:
+
+Extra blank footage remove karein.
+Music ko gradually low karein.
+Final text/logo add karein.
+Zarurat ho to short fade-out use karein.
+34. Full Video Preview Karein
+
+Ab video ko start se end tak completely watch karein.
+
+Check karein:
+
+❌ Unwanted clips
+❌ Extra pauses
+❌ Spelling mistakes
+❌ Audio too loud
+❌ Audio too low
+❌ Bad transitions
+❌ Text timing
+❌ Black/empty frames
+
+35. Video Quality Check Karein................
+
+Export se pehle:
+
+Video vertical hai ya horizontal?
+Resolution correct hai?
+Audio clear hai?
+Text screen se bahar to nahi?
+Important subject crop to nahi ho raha?
+
+36. Export / Save Video................
+
+Top-right Export button par tap karein.
+
+Generally:
+
+Resolution: 1080p
+Frame Rate: 30 FPS
+High-motion video ho to 60 FPS use kar sakti hain.
+Quality/bitrate ko reasonable high rakhein.
+
+Phir Export par tap karein.
+
+37. Export ke Baad...............
+
+Video phone ki gallery mein save ho jayegi.
+
+Ab aap usko:
+
+WhatsApp
+Instagram Reels
+TikTok
+YouTube Shorts
+YouTube
+Facebook
+
+par upload kar sakti hain.
