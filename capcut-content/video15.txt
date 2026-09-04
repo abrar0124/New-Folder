@@ -1,0 +1,8 @@
+15. Text Animation..........................
+
+Text select karein:
+Animation par tap karein.
+In = text screen par kaise aaye.
+Out = text kaise disappear ho.
+Loop = text continuously animate ho.
+Animation ki duration adjust karein.

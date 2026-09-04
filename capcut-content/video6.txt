@@ -1,0 +1,9 @@
+6. Transition Add Karein...................
+
+Do clips ke beech jo chhota white box/transition icon hota hai us par tap karein.
+Transitions open honge.
+Fade, Mix, Slide, Zoom etc. mein se transition choose karein.
+Duration adjust karein.
+✔️ tap karke apply karein.
+
+Tip: Professional video ke liye har clip par heavy transition use na karein.

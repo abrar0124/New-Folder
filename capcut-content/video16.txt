@@ -1,0 +1,4 @@
+16. Text ko Specific Time Tak Rakhein......................
+Timeline mein text layer select karein.
+Text layer ke left/right edges drag karein.
+Jitni der text screen par chahiye utni duration set karein.

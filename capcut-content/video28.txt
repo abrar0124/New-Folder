@@ -1,0 +1,9 @@
+28. Auto Captions..................
+
+Agar video mein speech hai:
+
+Text → Auto Captions.
+Language select karein.
+Generate karein.
+CapCut automatically spoken words ko text mein convert karega.
+Captions ki spelling aur timing check karein.

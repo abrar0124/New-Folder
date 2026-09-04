@@ -1,0 +1,5 @@
+8. Slow Motion Banayein..........................
+Jis portion ko slow karna hai pehle usko Split karein.
+Us particular clip ko select karein.
+Speed → Normal.
+Speed ko, for example, 0.5x ya 0.3x karein.

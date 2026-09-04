@@ -1,0 +1,6 @@
+13. Voice-over Record Karein..................
+
+Audio → Voiceover par tap karein.
+Record button press karke bolna start karein.
+Recording complete karke stop karein.
+Voice timeline mein add ho jayegi.

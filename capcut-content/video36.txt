@@ -1,0 +1,12 @@
+36. Export / Save Video................
+
+Top-right Export button par tap karein.
+
+Generally:
+
+Resolution: 1080p
+Frame Rate: 30 FPS
+High-motion video ho to 60 FPS use kar sakti hain.
+Quality/bitrate ko reasonable high rakhein.
+
+Phir Export par tap karein.

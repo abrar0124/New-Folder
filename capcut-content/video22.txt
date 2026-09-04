@@ -1,0 +1,9 @@
+22. Green Screen Use Karein...............
+
+Agar green-screen video hai:
+
+Video select karein.
+Chroma Key par tap karein.
+Green color select karein.
+Intensity/Shadow adjust karein.
+Background mein apni image/video laga sakti hain.

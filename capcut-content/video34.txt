@@ -1,0 +1,14 @@
+34. Full Video Preview Karein
+
+Ab video ko start se end tak completely watch karein.
+
+Check karein:
+
+❌ Unwanted clips
+❌ Extra pauses
+❌ Spelling mistakes
+❌ Audio too loud
+❌ Audio too low
+❌ Bad transitions
+❌ Text timing
+❌ Black/empty frames

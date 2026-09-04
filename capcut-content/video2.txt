@@ -1,0 +1,5 @@
+2. Video ka Order Set Karein........................
+
+Timeline mein kisi clip ko press & hold karein.
+Left/right drag karke uski position change karein.
+Is tarah sari clips ko correct sequence mein arrange karein.

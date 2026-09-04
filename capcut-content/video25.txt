@@ -1,0 +1,5 @@
+25. Video Rotate Karein...............
+
+Clip select karein.
+Edit → Rotate.
+Required direction mein rotate karein.

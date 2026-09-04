@@ -1,0 +1,6 @@
+12. Original Video ki Voice Adjust Karein.....................
+
+Video clip select karein.
+Volume par tap karein.
+Original sound ko increase/decrease karein.
+Agar bilkul sound nahi chahiye to Mute kar sakti hain.

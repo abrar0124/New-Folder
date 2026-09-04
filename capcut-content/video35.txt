@@ -1,0 +1,9 @@
+35. Video Quality Check Karein................
+
+Export se pehle:
+
+Video vertical hai ya horizontal?
+Resolution correct hai?
+Audio clear hai?
+Text screen se bahar to nahi?
+Important subject crop to nahi ho raha?

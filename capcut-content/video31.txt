@@ -1,0 +1,7 @@
+31. Audio ko Beat ke Sath Match Karein....................
+
+Music add karein.
+Audio select karein.
+Beat/Match Cut feature available ho to use karein.
+Beat points par clips ko Split karein.
+Important cuts ko music beats ke sath align karein.

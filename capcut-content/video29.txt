@@ -1,0 +1,12 @@
+29. Captions Style Karein.................
+
+Caption select karein:
+
+Font
+Size
+Color
+Background
+Animation
+Position
+
+adjust karein.

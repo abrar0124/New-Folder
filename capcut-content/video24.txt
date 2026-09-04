@@ -1,0 +1,9 @@
+24. Video Crop Karein................
+
+Clip select karein.
+Edit → Crop.
+Required area select karein.
+Aspect ratio choose karein, jaise:
+9:16 → TikTok/Reels/Shorts
+16:9 → YouTube
+1:1 → Square post

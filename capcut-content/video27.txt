@@ -1,0 +1,15 @@
+27. Keyframes — Advanced Editing................
+
+Keyframes se aap:
+
+Object ko move
+Zoom in/out
+Zoom out
+Position change
+Rotation
+Smooth movement
+
+kar sakti hain.
+
+Basic method:
+Starting position → Keyframe → Timeline mein aage → Position/size change → Second keyframe.

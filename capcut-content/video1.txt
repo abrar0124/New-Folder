@@ -1,0 +1,35 @@
+🎬 CapCut Mobile — Video Editing Start to End
+
+1. New Project Start Karein..........................
+
+CapCut app open karein.
+New Project par tap karein.
+Gallery se apni videos/photos select karein.
+Jo clips select karni hain unko order mein select karein.
+Add par tap karein.
+Ab aap editing timeline mein aa jayengi means jo layers dekh rhi hoti hn ussy timeline kety han
+
+sb sy pehly video ka ratio select karain gy means size
+wha per show ho ga k ks size mai video bnani ha tiktok size or youtube size then select karain..
+
+then aghr video ko thora bright krna to adjust per click karain gyn
+
+important..................................
+
+video mai face blur kaisy karain capcut mai video
+select video
+then go to video effects
+then search face mosaic
+then tick
+
+important..................................
+
+then text to audio kaisy karain
+select add  text
+then select text to audio then add caption
+and select voice k kis ki voice sy video ka caption read krwana ha
+
+now aghr text add krna to kisi text ko spefic color dena ha
+to ye krna hoga
+select that text which I want to give specific styling and color
+then click on edit style and then do styling

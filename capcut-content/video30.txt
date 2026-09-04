@@ -1,0 +1,8 @@
+30. Voice Enhance / Noise Reduce...................
+
+Agar option available ho:
+
+Audio/video select karein.
+Enhance Voice ya Noise Reduction use karein.
+Background noise kam karein.
+Voice ko clearer banayein.

@@ -1,0 +1,6 @@
+4. Video ko Trim Karein.....................
+
+Agar starting ya ending ka part remove karna ho:
+Clip par tap karein.
+Clip ke left ya right edge ko drag karein.
+Jitna part chahiye utna rakh dein.

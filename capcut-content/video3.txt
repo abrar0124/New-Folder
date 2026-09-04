@@ -1,0 +1,9 @@
+3. Video ka Extra Part Cut/Delete Karein................
+
+Timeline mein video clip par tap karein.
+White playhead ko us jagah le jayein jahan se part remove karna hai.
+Split par tap karein.
+Ab jahan part end hota hai wahan bhi playhead le ja kar Split karein.
+Beech wala unwanted part select karein.
+Delete par tap karein.
+Isi tarah video ke jitne unwanted parts hain remove kar sakti hain.

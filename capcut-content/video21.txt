@@ -1,0 +1,8 @@
+21. Background Remove / Cutout.................
+
+Agar subject/person ko background se separate karna ho:
+
+Clip select karein.
+Cutout par tap karein.
+Auto Cutout use karein.
+CapCut automatically subject ko detect karega.

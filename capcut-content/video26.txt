@@ -1,0 +1,11 @@
+26. Zoom In / Zoom Out...............
+
+Simple zoom ke liye:
+
+Clip select karein.
+Keyframe add karein.
+Starting point par normal size rakhein.
+Aage ja kar second keyframe add karein.
+Video ko zoom karein.
+
+CapCut automatically smooth zoom create karega.

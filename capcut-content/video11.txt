@@ -1,0 +1,6 @@
+11. Apni Phone ki Music/File Add Karein.....................
+
+Audio → Sounds.
+Available options mein From device / Your sounds jaisa option select karein.
+Phone se audio choose karein.
+Timeline mein add karein.

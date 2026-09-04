@@ -1,0 +1,8 @@
+14. Text Add Karein...............................
+
+Text → Add Text.    
+Apna text type karein.
+Font choose karein.
+Size adjust karein.
+Color/style change karein.
+Text ko screen par desired position par drag karein.
