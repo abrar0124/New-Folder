@@ -1,0 +1,57 @@
+# Canva – Basic Note
+
+### Canva kya hai?
+
+Canva ek easy **online designing tool** hai jisme hum different types ke designs bana sakte hain, jaise:
+
+* Social media posts
+* Presentations
+* Posters
+* Flyers
+* Videos
+* Thumbnails
+* Invitations
+* Documents
+* CV/Resumes
+
+### Canva kyun use karte hain?
+
+Canva ka use is liye karte hain kyunki ismein designing karna easy hota hai. Ismein ready-made **templates, images, elements, fonts, colors aur animations** available hote hain.
+
+### Canva mein basic kaam kaise karte hain?
+
+1. Canva open karein.
+2. **Create a Design** par click karein.
+3. Apni required design size/type select karein.
+4. **Templates** se ready-made design choose kar sakte hain.
+5. **Uploads** se apni picture/video upload karein.
+6. **Elements** se shapes, icons, lines aur other items add karein.
+7. **Text** se heading aur other text add karein.
+8. Text ka **font, size, color aur style** change karein.
+9. **Position** se elements ko aage, peeche, left, right ya center mein adjust karein.
+10. **Animate** se text ya elements mein animation add karein.
+11. Design complete hone ke baad **Share → Download** se save karein.
+
+### Canva mein Frame kya hota hai?
+
+**Frame** ek shape/container hota hai jisme hum picture ko place kar sakte hain. Canva automatically picture ko frame ke shape ke according fit/crop karta hai.
+
+### Rounded Corners / Border Radius
+
+Agar kisi **box ya frame ke corners ko rectangular se rounded** banana ho, to rounded-corner shape/frame use kiya ja sakta hai. Ye design ko soft aur modern look deta hai.
+
+### Important Canva Options
+
+* **Templates** → Ready-made designs
+* **Elements** → Shapes, icons, graphics, lines
+* **Text** → Text add/edit karna
+* **Uploads** → Apni photos/videos add karna
+* **Position** → Element ki placement change karna
+* **Animate** → Animation add karna
+* **Share** → Design share/download karna
+
+### Simple Rule
+
+**Add → Customize → Position → Animate → Download**
+
+Canva mein pehle element add karein, phir usko customize karein, uski position set karein, zarurat ho to animation dein, aur last mein design download/save karein.
